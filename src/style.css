@@ -1,0 +1,27 @@
+@font-face {
+	font-family: alarmClock;
+	src: url(alarm_clock.ttf);
+}
+
+html, body {
+	padding: 0px;
+	margin: 0px;
+}
+
+.font-alarmclock {
+	font-family: alarmClock;
+}
+
+#calculator {
+	background-color: #7C7A7A;
+	max-width: 400px;
+	border: 1px solid #303633;
+	border-radius: 0.25rem;
+}
+
+.bg-display {
+	/* background-color: #95F9E3; */
+	background-color: #B2FBEB;
+}
+
+
